@@ -21,8 +21,9 @@ Hey there! I'm Ömer Ünal, a Software Test Engineer from Germany, Hamburg.
 - Gherkin Language
 <!-- ### Current projects 🗃️
 - [Twitch Adblock](https://github.com/cleanlock/VideoAdBlockForTwitch)
+-->
 ### Buy me a coffee ☕
-- [PayPal](https://paypal.me/unalomer) -->
+- [PayPal](https://paypal.me/unalomer)
 
 
 <!--
