@@ -3,18 +3,29 @@
 ### About me 👨‍💻
 Hey there! I'm Ömer Ünal, a Software Test Engineer from Germany, Hamburg.
 
-### Languages 💻
-- Javascript
+### Technical Skills 💻
 - Java
-- Selenyum
+- Selenium
+- HTML
 - CSS
+- Selenium WebDriver
+- Cucumber
+- Maven
+- TestNG
+- JUnit
+- Jenkins
+- SQL
+- RestAssured
+- Appium
+- JMeter
+- Gherkin Language
 <!-- ### Current projects 🗃️
 - [Twitch Adblock](https://github.com/cleanlock/VideoAdBlockForTwitch)
 ### Buy me a coffee ☕
 - [PayPal](https://paypal.me/unalomer) -->
 
 
-<--
+<!--
 **Unalomer22/Unalomer22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
